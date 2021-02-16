@@ -10,24 +10,24 @@ repos:
       types: [python]
       stages: [commit]
     - id: black
+      name: black
       language: python
       language_version: python3.7
-      name: black
       entry: black
       types: [python]
       stages: [commit]
     - id: mypy
+      name: mypy
       language: python
       language_version: python3.7
-      name: mypy
       entry: mypy
       types: [python]
       stages: [commit]
     - id: deps_to_requirements
+      name: convert deps to requirements
       language: python
       language_version: python3.7
-      name: dephell deps convert
-      entry: bash -c 'dephell deps convert'
+      entry: dephell deps convert
       pass_filenames: false
       stages: [commit]
 
