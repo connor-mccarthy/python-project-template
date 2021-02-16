@@ -23,6 +23,13 @@ repos:
       entry: mypy
       types: [python]
       stages: [commit]
+    - id: bandit
+      name: bandit
+      language: python
+      language_version: python3.7
+      entry: bandit --configfile bandit.yaml
+      types: [python]
+      stages: [commit]
     - id: deps_to_requirements
       name: convert deps to requirements
       language: python
