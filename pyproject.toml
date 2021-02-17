@@ -12,7 +12,6 @@ flake8 = "^3.8.4"
 pre-commit = "^2.10.1"
 black = "^20.8b1"
 mypy = "^0.800"
-dephell = "^0.8.3"
 pytest = "^6.2.2"
 bandit = "^1.7.0"
 
@@ -22,10 +21,6 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 make-setup = 'dephell deps convert --from-format=poetry --from-path=pyproject.toml --to-format=setuppy --to-path=setup.py'
-
-[tool.dephell.main]
-from = {format = "poetry", path = "pyproject.toml"}
-to = {format = "pip", path = "requirements.txt"}
 
 [tool.pytest.ini_options]
 minversion = "6.2"
