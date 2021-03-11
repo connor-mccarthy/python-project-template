@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Python Project Template</h1>
+  <h1>🐍 Python Project Template</h1>
 
 <p align="center">
 
@@ -15,4 +15,5 @@
 <a href="https://codecov.io/gh/connor-mccarthy/algorithms-specialization-stanford/branch/master/graph/badge.svg?token=4AHCWFKISX">
     <img src="https://codecov.io/gh/connor-mccarthy/algorithms-specialization-stanford/branch/master/graph/badge.svg?token=4AHCWFKISX" alt="codecov" >
 </a>
+<p>Python project template with my go-to configurations.</p>
 </div>
