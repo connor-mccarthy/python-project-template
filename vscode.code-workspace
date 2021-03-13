@@ -1,14 +1,19 @@
 {
-    "settings": {},
-    "extensions": {
-      "recommendations": [
-        "ms-python.python",
-        "njqdev.vscode-python-typehint",
-        "kevinrose.vsc-python-indent",
-      ]
+  "settings": {},
+  "extensions": {
+    "recommendations": [
+      "ms-python.python",
+      "njqdev.vscode-python-typehint",
+      "kevinrose.vsc-python-indent",
+    ]
+  },
+  "folders": [
+    {
+      "name": "Root": ,
+      "path": "."
     },
-    "folders": [
-      {
-        "name": "Source",
-        "path": "./src"
-      }]
+    {
+      "name": "Source",
+      "path": "./src"
+    }
+  ]
