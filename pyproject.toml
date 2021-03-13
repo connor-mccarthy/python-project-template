@@ -19,9 +19,6 @@ bandit = "^1.7.0"
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
-[tool.poetry.scripts]
-make-setup = 'dephell deps convert --from-format=poetry --from-path=pyproject.toml --to-format=setuppy --to-path=setup.py'
-
 [tool.pytest.ini_options]
 minversion = "6.2"
 addopts = "--cov-report term-missing --cov=./"
