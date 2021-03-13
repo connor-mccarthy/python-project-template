@@ -6,6 +6,10 @@
 <a href="https://github.com/connor-mccarthy/python-project-template/workflows/Python%20Workflow/badge.svg">
     <img src="https://github.com/connor-mccarthy/python-project-template/workflows/Python%20Workflow/badge.svg" alt="Python Workflow" />
 </a>
+<a href="https://img.shields.io/github/v/release/connor-mccarthy/python-project-template?logo=github">
+    <img src="https://img.shields.io/github/v/release/connor-mccarthy/python-project-template?logo=github" alt="github-release" >
+</a>
+</a>
 <a href="https://img.shields.io/badge/python-3.7.10-blue.svg">
     <img src="https://img.shields.io/badge/python-3.7.10-blue.svg" alt="Python 3.7.10" />
 </a>
