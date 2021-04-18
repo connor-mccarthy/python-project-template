@@ -3,8 +3,8 @@
 
 <p align="center">
 
-<a href="https://github.com/connor-mccarthy/<repo-name>/workflows/Python%20Workflow/badge.svg">
-    <img src="https://github.com/connor-mccarthy/<repo-name>/workflows/Python%20Workflow/badge.svg" alt="Python Workflow" />
+<a href="https://github.com/connor-mccarthy/<repo-name>/workflows/build/badge.svg">
+    <img src="https://github.com/connor-mccarthy/<repo-name>/workflows/build/badge.svg" alt="Python Workflow" />
 </a>
 <a href="https://img.shields.io/github/v/release/connor-mccarthy/<repo-name>?logo=github">
     <img src="https://img.shields.io/github/v/release/connor-mccarthy/<repo-name>?logo=github" alt="github-release" >
