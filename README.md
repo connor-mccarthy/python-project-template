@@ -9,7 +9,6 @@
 <a href="https://img.shields.io/github/v/release/connor-mccarthy/<repo-name>?logo=github">
     <img src="https://img.shields.io/github/v/release/connor-mccarthy/<repo-name>?logo=github" alt="github-release" >
 </a>
-</a>
 <a href="https://img.shields.io/badge/python-3.7.10-blue.svg">
     <img src="https://img.shields.io/badge/python-3.7.10-blue.svg" alt="Python 3.7.10" />
 </a>
