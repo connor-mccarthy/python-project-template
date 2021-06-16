@@ -4,12 +4,12 @@
     "recommendations": [
       "ms-python.python",
       "njqdev.vscode-python-typehint",
-      "kevinrose.vsc-python-indent",
+      "kevinrose.vsc-python-indent"
     ]
   },
   "folders": [
     {
-      "name": "Root": ,
+      "name": "Root",
       "path": "."
     },
     {
@@ -17,3 +17,4 @@
       "path": "./src"
     }
   ]
+}
