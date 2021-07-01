@@ -15,8 +15,8 @@
 <a href="https://img.shields.io/badge/code%20style-black-000000.svg">
     <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black" >
 </a>
-<a href="https://codecov.io/gh/connor-mccarthy/<repo-name>/branch/master/graph/badge.svg?token=4AHCWFKISX">
-    <img src="https://codecov.io/gh/connor-mccarthy/<repo-name>/branch/master/graph/badge.svg?token=4AHCWFKISX" alt="codecov" >
+<a href="https://codecov.io/gh/connor-mccarthy/<repo-name>/branch/master/graph/badge.svg?token=xxx">
+    <img src="https://codecov.io/gh/connor-mccarthy/<repo-name>/branch/master/graph/badge.svg?token=xxx" alt="codecov" >
 </a>
 <p>Python project template with my go-to configurations.</p>
 </div>
